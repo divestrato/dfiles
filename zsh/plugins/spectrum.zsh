@@ -36,3 +36,4 @@ function spectrum() {
         ctr=$(expr ${ctr} + 1)
     done
     print # newline
+}
