@@ -3,6 +3,7 @@
 ### Setup
 
 1. `./install`
+1. `dscl . -read /Users/$USER UserShell UserShell: /usr/local/bin/zsh`
 1. ???
 1. profit
 
